@@ -12,7 +12,7 @@ global.dana = '085828764046'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Zifabotz'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
+global.yt = 'https://youtube.com/channel/UCSScI6NnXE0dQ1HCnPUUSKQ'
 global.web = 'https://rozi-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n1 Minggu 5.000\nPermanen 20.000'
 
@@ -23,18 +23,18 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'zifabotz-MD'
 global.watermark = wm
-global.wm2 = '                     「 zifabotz-MD⁩ 」'
+global.wm2 = '「 zifabotz-MD⁩ 」'
 global.wm3 = '💌 zifabotz-MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*tunggu sedang di proses...*_'
+global.wait = '_*tunggu Zifabotz sedang memproses...*_'
 global.eror = '_*Server Error*_'
-global.benar = 'Benar ✅\n'
-global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
+global.benar = 'Benar 🙋\n'
+global.salah = 'Salah 🙅\n'
+global.stiker_wait = 'Stiker sedang dibuat oleh zifabotz!'
+global.packname = 'zifabotz'
 global.author = '© rozi'
 
 //=============『 Apikey 』================== //
